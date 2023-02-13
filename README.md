@@ -4,7 +4,10 @@ O caso hipotético da Área de Atuação III - Programação Nível Técnico con
 
 DESAFIOS
 
-Escreva um programa que, dado quatro valores, A, B, C e D, imprima o maior e o menor valor.
-Dados três valores distintos, fazer um algoritmo que, após a leitura destes dados imprima-os em ordem crescente.
-Faça um algoritmo que leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
+1. Escreva um programa que, dado quatro valores, A, B, C e D, imprima o maior e o menor valor.
+
+2. Dados três valores distintos, fazer um algoritmo que, após a leitura destes dados imprima-os em ordem crescente.
+
+3. Faça um algoritmo que leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
+
 Boa sorte
